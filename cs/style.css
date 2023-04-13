@@ -1,0 +1,59 @@
+.square {
+    width: 150px;
+    height: 150px;
+    margin-top: 1.5px;
+    display: inline-block;
+    position: static;
+
+}
+
+.container {
+    width: 500px;
+}
+
+.circle {
+    width: 75px;
+    height: 75px;
+    border: 1px solid;
+    border-radius: 100px;
+    position: relative;
+    top: 35px;
+    left: 35px;
+}
+
+div.red {
+    background-color: red;
+}
+
+div.blue {
+    background-color: blue;
+}
+
+div.green {
+    background-color: green;
+}
+
+div.yellow {
+    background-color: yellow;
+}
+
+div.black {
+    background-color: black;
+}
+
+div.orange {
+    background-color: orange;
+}
+
+div.violet {
+    background-color: darkviolet;
+}
+
+div.grey {
+    background-color: grey;
+}
+
+div.pink {
+    background-color: pink;
+}
+
